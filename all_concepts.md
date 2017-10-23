@@ -97,7 +97,7 @@ EXTRA NAKIT!
 |:-:|:-:|:-:|
 | X1 | [Myynnin liidi]() | |
 | X2 | [Ohjelmistoarkkitehti]() | | 
-| X3 | [Value Stream]() |  | 
+| X3 | [Kubernetes]() |  | 
 | X4 | [Issue]() |  | 
 | X5 | [Support Request]() |  | 
 | X6 | [Sprint Velocity]() |  | 
