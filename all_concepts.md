@@ -108,6 +108,6 @@ EXTRA NAKIT!
 | X11 | [Kanban]() | | 
 | X12 | [Offshore]() | | 
 | X13 | [Outsourcing]() | | 
-| X13 | [] | | 
+| X13 | [Workload - työkuorma] | | 
 | X13 | [] | | 
 
