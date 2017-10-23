@@ -104,7 +104,7 @@ EXTRA NAKIT!
 | X7 | [Burn down]() |  | 
 | X8 | [Tasking]() |  | 
 | X9 | [Feature Branch]() |  | 
-| X10 | [AWS]() | | 
+| X10 | [AWS Lambda]() | | 
 | X11 | [Kanban]() | | 
 | X12 | [Offshore]() | | 
 | X13 | [Outsourcing]() | | 
