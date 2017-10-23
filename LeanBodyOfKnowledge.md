@@ -42,3 +42,6 @@ Kaavalla arvioidaan yhden tehtaan tai tuotannon komponentin prosessiin menevää
 ## Lähteet
 http://www.sixsigma.fi/index.php/fi/lean/  
 http://www.sixsigma.fi/fi/lean/the-body-of-knowledge/
+
+## Aiheeseen liittyvää
+[LEAN](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/LEAN.md)
