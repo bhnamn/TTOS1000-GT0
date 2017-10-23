@@ -31,7 +31,7 @@ Herra X saa olutta ja kaikki on hyvin.
 
 ## Lähteitä liittyen aiheeseen
 
-Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
+
 
 * http://www.businessdictionary.com/definition/programmer.html
 * http://www.ammattinetti.fi/ammatit/detail/328_ammatti?link=true
