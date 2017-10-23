@@ -15,6 +15,14 @@ Ohjelmistotuotanto voidaan sisällyttää kahteen kategoriaan jotka ovat: ”var
 ### Ohjelmistotuotannossa käytettävät työkalut
 Ohjelmistotuotannon helpottamiseksi on luotu useita menetelmiä ja työkaluja. Näistä tunnetuimpia ovat erilaiset mallit, jotka helpottavat prosessin hallintaa (vesiputousmalli yms.), yhtenäistetty mallinnuskieli (UML) ja CASE-työkalut eli ohjelmat joilla voi visualisoida sekä organisoida eri ohjelmistotuotannon prosesseja. 
 
+## Katso myös
+
+![Vesiputousmalli](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/vesiputousmalli.md)
+
+Ketterä kehittäminen
+
+Ohjelmiston elinkaari
+
 ## Lähteitä liittyen aiheeseen
 
 https://fi.wikipedia.org/wiki/Ohjelmistotuotanto
