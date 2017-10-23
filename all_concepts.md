@@ -1,6 +1,8 @@
 # Syksyn TTOS1000-kurssikokeeseen tulevat käsitteet/aihekokonaisuudet
 
 
+
+
 KATSELMOINTI 23.10.2017
 
 ### Yleisiä huomioita:
@@ -9,7 +11,13 @@ KATSELMOINTI 23.10.2017
 * Mieti, että käsitekuvauksen sisällön perusteella olisi saatava perusajatuksesta kiinni
 * Linkit lähteisiin antavat vain lisävahvistusta!
 
+### PUUTTUVAT SIVUT PAIKALLEEN - ASAP!
 
+Nyt on viimeinen mahdollisuus osallistua kokeeseen ilman ylimääräistä puuhaa! 
+Eli hoida oma käsitteesi versiohallintaan! Aikaa on keskiviikkoon klo 12:00 
+Jos aikataulua ei noudata, niin lisään jokaisen myöhästelijän listalle yhden lisäkäsitteen. 
+Nämä ylimääräiset käsitteet tulevat myös mukaan kokeeseen! (eli kannattaa hoitaa oma tontti kuntoon)
+Käsitteet on listattu tämän sivun loppuun! [X1-X15](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/all_concepts.md#extra-nakit)
 
 
 ### Poistakaa ja korvatkaa oikealla sisällöllä seuraavat:
@@ -26,12 +34,6 @@ KATSELMOINTI 23.10.2017
 * Eli varmista, että oma käsitteesi on linkitetty muihin sopiviin käsitteisiin?
 
 
-### Lisävastuuta tarjolla!
-
-Eli jollei aikataulu pidä Keskiviikko klo 12:00, niin lisään jokaisen myöhästelijän listalle yhden lisäkäsitteen. 
-Nämä ylimääräiset käsitteet tulevat myös mukaan kokeeseen! (eli kannattaa hoitaa oma tontti kuntoon)
-
-Käsitteet on listattu tämän sivun loppuun! [X1-X15](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/all_concepts.md#extra-nakit)
 
 
 
