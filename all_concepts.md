@@ -91,5 +91,21 @@ KATSELMOINTI 23.10.2017
 | F3 | [Prosessin omistaja - Process owner](prosessinomistaja) | [Kettera kehittaminen - agile development](kettera-kehittaminen) | - |
 | F4 | [Ohjelmiston elinkaarimalli](ohjelmiston-elinkaarimalli) | [Jatkuva Suunnittelu - Continuous Planning](continuous-planning) | - |
 
+EXTRA NAKIT!
 
+| X1 | [liidi]() | |
+| X2 | [] | | 
+| X3 | [] |  | 
+| X4 | [] |  | 
+| X5 | [] |  | 
+| X6 | [] |  | 
+| X7 | [] |  | 
+| X8 | [] |  | 
+| X9 | [] |  | 
+| X10 | [] | | 
+| X11 | [] | | 
+| X12 | [] | | 
+| X13 | [] | | 
+| X13 | [] | | 
+| X13 | [] | | 
 
