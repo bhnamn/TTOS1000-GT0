@@ -95,13 +95,13 @@ EXTRA NAKIT!
 
 | Vast | Kasite  | Muuta? |
 |:-:|:-:|:-:|
-| X1 | [liidi]() | |
-| X2 | [] | | 
-| X3 | [] |  | 
-| X4 | [] |  | 
-| X5 | [] |  | 
-| X6 | [] |  | 
-| X7 | [] |  | 
+| X1 | [Myynnin liidi]() | |
+| X2 | [Ohjelmistoarkkitehti]() | | 
+| X3 | [Value Stream] |  | 
+| X4 | [Issue] |  | 
+| X5 | [Support Request] |  | 
+| X6 | [Sprint Velocity] |  | 
+| X7 | [Burn down] |  | 
 | X8 | [] |  | 
 | X9 | [] |  | 
 | X10 | [] | | 
