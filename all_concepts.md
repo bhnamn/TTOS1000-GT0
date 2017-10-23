@@ -82,7 +82,7 @@ Käsitteet on listattu tämän sivun loppuun! [X1-X15](https://github.com/JAMKPR
 | D6 | [Kayttoonotto (Service Deployment)](regressio-testaus) | [Liiketoiminantavoite (Business Goal)](liiketoimintatavoite) |- |
 | D7 | [Yllapito (Maintenance)](yllapito.md) | [Palvelukuvaus - Service Description](service-description.md) | - |
 | D8 | [Vika - Bug](Vika-(bug)) | [SLA Service Level Agreement](service-level-agreement)) |- |
-| D9 | [Virhe - Failure](Virhe) | [Vianhallinta (Error management)](vianhallinta) | - |
+| D9 | [Virhe - Failure](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/failure.md) | [Vianhallinta (Error management)](vianhallinta) | - |
 | E1 | [Ongelma, virhe, vika](ongelma.md) | [Logi](logi.md) |- |
 | E2 | [Poikkeama - Defect]( Poikkeama(Defect)) | [Ominaisuus/piirre - Feature](ominaisuuus-feature) | - |
 | E3 | [Kriittinen polku - Critical Path](Kriittinen-polku) | [Vikatietokanta - Defect Database]() | - |
