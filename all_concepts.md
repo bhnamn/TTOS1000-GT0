@@ -102,12 +102,12 @@ EXTRA NAKIT!
 | X5 | [Support Request] |  | 
 | X6 | [Sprint Velocity] |  | 
 | X7 | [Burn down] |  | 
-| X8 | [] |  | 
-| X9 | [] |  | 
-| X10 | [] | | 
-| X11 | [] | | 
-| X12 | [] | | 
-| X13 | [] | | 
+| X8 | [Tasking] |  | 
+| X9 | [Feature Branch] |  | 
+| X10 | [AWS] | | 
+| X11 | [Kanban] | | 
+| X12 | [Offshore] | | 
+| X13 | [Outsourcing] | | 
 | X13 | [] | | 
 | X13 | [] | | 
 
