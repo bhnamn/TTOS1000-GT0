@@ -71,7 +71,7 @@ KATSELMOINTI 23.10.2017
 | D1 | [kaantaja (Compiler)](kaantaja(compiler)) | [Information Technology Infrastructure Library ITIL](itil) | - |
 | D2 | [Laadunvarmistus (Quality Assurance)](laadunvarmistus) | [Software testing body of knowledge](software-testing-body-of-knowledge) |- |
 | D3 | [Yksikkotestaus (Unit Testing)](Yksikkotestaus.md) | [Versiohallintahaara (Branch)](versiohallintahaara.md) | - |
-| D4 | [Regressiotestaus (Regression Testing)](regressio-testaus) | [Jatkuvajulkaisu (Continuous Delivery)](jatkuvajulkaisu) | - |
+| D4 | [Regressiotestaus (Regression Testing)](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/regressiotestaus.md) | [Jatkuvajulkaisu (Continuous Delivery)](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/jatkuvajulkaisu.md) | - |
 | D5 | [Julkaisusuunnittelu (Release Management)](julkaisusuunnittelu) | [Jatkuvasuunnittelu (Continuous Planning)](jatkuvasuunnittelu) | - |
 | D6 | [Kayttoonotto (Service Deployment)](regressio-testaus) | [Liiketoiminantavoite (Business Goal)](liiketoimintatavoite) |- |
 | D7 | [Yllapito (Maintenance)](yllapito.md) | [Palvelukuvaus - Service Description](service-description.md) | - |
