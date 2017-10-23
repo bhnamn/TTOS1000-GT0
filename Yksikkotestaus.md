@@ -30,4 +30,4 @@ Tätä voitaisiin testata esimerkiksi varastoimalla tiedot muuttujista A ja B mu
 ## Linkit wikin muihin sivuihin
 
 * [Virhe](Virhe.md)
-* [Vianhallinta](vianhallinta.md)
+* [Vianhallinta](https://github.com/JAMKPROJ/TTOS1000-GT0/edit/master/error-management.md)
