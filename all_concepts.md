@@ -65,7 +65,7 @@ KATSELMOINTI 23.10.2017
 | C4 | [Suunnitteluajattelu - Design Thinking](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/suunnitteluajattelu-designthinking.md) | [Project Management Body of Knowledge](https://github.com/JAMKPROJ/TTOS1000-GT0/edit/master/projectmanagementbodyofknowledge.md) | - |
 | C5 | [Koontipalvelin (Build Server)](koontipalvelin) | [Enterprise Architecture Body of Knowledge](enterprise-architecture-body-of-knowledge) | - |
 | C6 | [Jatkuvajulkaisu (Continuous delivery)](jatkuva-julkaisu) | [Kelpuuttaminen - Validation](kelpuuttaminen-validation) | - |
-| C7 | [Jatkuva integrointi(Continuous Integration)](Jatkuva-integrointi) | [Software Engineering Body of Knowledge](Software-Engineering-Body-of-Knowledge) | - |
+| C7 | [Jatkuva integrointi(Continuous Integration)](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/jatkuva-integraatio.md) | [Software Engineering Body of Knowledge](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/swebok.md) | - |
 | C8 | [Laadunvarmistus (Quality Assurance)](laadunhallinta) | [Esineiden Internet - Internet of Things](internet-of-things) | - |
 | C9 | [Parikoodaus](parikoodaus) | [Business Analysis Body of Knowledge](business-analysis-body-of-knowledge) | - |
 | D1 | [kaantaja (Compiler)](kaantaja(compiler)) | [Information Technology Infrastructure Library ITIL](itil) | - |
@@ -103,7 +103,7 @@ EXTRA NAKIT!
 | X6 | [Sprint Velocity]() |  | 
 | X7 | [Burn down]() |  | 
 | X8 | [Tasking]() |  | 
-| X9 | [Feature Branch]() |  | 
+| X9 | [Feature Branch](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/feature-branch.md) |  | 
 | X10 | [AWS Lambda]() | | 
 | X11 | [Kanban]() | | 
 | X12 | [Offshore]() | | 
