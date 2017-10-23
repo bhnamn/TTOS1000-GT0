@@ -1,6 +1,6 @@
-# Käsite XYZÖÄ
+# Käsite Virhe
 
-Kuvauksen kirjoitti: Mauri Bosse, tunnus X1234
+Kuvauksen kirjoitti: Joni Korkiakoski, tunnus K1755
 
 ## Lyhyt kuvaus käsitteestä tai aiheesta
 
