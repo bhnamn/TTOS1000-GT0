@@ -95,7 +95,9 @@ Käsitteet on listattu tämän sivun loppuun! X1-X15
 | F3 | [Prosessin omistaja - Process owner](prosessinomistaja) | [Kettera kehittaminen - agile development](kettera-kehittaminen) | - |
 | F4 | [Ohjelmiston elinkaarimalli](ohjelmiston-elinkaarimalli) | [Jatkuva Suunnittelu - Continuous Planning](continuous-planning) | - |
 
-EXTRA NAKIT!
+### EXTRA NAKIT!
+
+Nämä on varattu myöhästelijöille!
 
 | Vast | Kasite  | Muuta? |
 |:-:|:-:|:-:|
