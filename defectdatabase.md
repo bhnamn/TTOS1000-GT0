@@ -32,4 +32,6 @@ Defect database on tietokanta bugeille ja vioille. Tärkeimmät tiedot ovat:
 Wikin sisäiset asiaan oleellisesti liittyvät sivut
 
 *[Vika, Bug](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/vika.md)
+
+
 *[Vikaraportti, Bug report](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/vikaraportti.md) 
