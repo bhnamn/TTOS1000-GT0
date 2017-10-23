@@ -97,17 +97,17 @@ EXTRA NAKIT!
 |:-:|:-:|:-:|
 | X1 | [Myynnin liidi]() | |
 | X2 | [Ohjelmistoarkkitehti]() | | 
-| X3 | [Value Stream] |  | 
-| X4 | [Issue] |  | 
-| X5 | [Support Request] |  | 
-| X6 | [Sprint Velocity] |  | 
-| X7 | [Burn down] |  | 
-| X8 | [Tasking] |  | 
-| X9 | [Feature Branch] |  | 
-| X10 | [AWS] | | 
-| X11 | [Kanban] | | 
-| X12 | [Offshore] | | 
-| X13 | [Outsourcing] | | 
+| X3 | [Value Stream]() |  | 
+| X4 | [Issue]() |  | 
+| X5 | [Support Request]() |  | 
+| X6 | [Sprint Velocity]() |  | 
+| X7 | [Burn down]() |  | 
+| X8 | [Tasking]() |  | 
+| X9 | [Feature Branch]() |  | 
+| X10 | [AWS]() | | 
+| X11 | [Kanban]() | | 
+| X12 | [Offshore]() | | 
+| X13 | [Outsourcing]() | | 
 | X13 | [] | | 
 | X13 | [] | | 
 
