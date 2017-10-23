@@ -50,7 +50,7 @@ KATSELMOINTI 23.10.2017
 | A7 | [Yksikkötesti](unit-test) | [Rational Unified Process (RUP)](rational-unified-process) | - |
 | A8 | [Tukihenkilo - Support Person](tukihenkilo) | [Katselmointi (Review)](katselmointi) | - |
 | A9 | [Projektipaallikko - Project Manager](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/projektipaallikko%20-%20project%20manager.md) | [SAFe](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/SAFe.md) | - |
-| B1 | [Laatupaallikko - Quality Manager](laatupaallikko) | [CMMi](cmmi) | - |
+| B1 | [Laatupaallikko - Quality Manager](Laatupaallikko.md) | [CMMi](CMMI.md) | - |
 | B2 | [Vaatimustenhallinta - Requirement Management](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/vaatimustenhallinta.md) | [ALM - Application Lifecycle Management](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/application-lifecycle-management.md) | - |
 | B3 | [Toiminnallinen vaatimus (Functional Requirement)](toiminnallinen-vaatimus) | [DevOps](devops) | - |
 | B4 | [Ei-toiminnnallinen vaatimus - Non functional requirement](Ei-toiminnalinen-vaatimus) | [Reverse Engineering](Reverse-Engineering) | - |
