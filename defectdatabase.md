@@ -3,6 +3,19 @@
 Kuvauksen kirjoitti: Matti Schroderus, tunnus K1646
 
 ## Kuvaus
+Defect database on tietokanta bugeille ja vioille. Tärkeimmät tiedot ovat:
+
+⋅⋅*Kuvaus ongelmasta
+
+
+⋅⋅*Miten ongelma esiintyy
+
+
+⋅⋅*Milloin löydetty
+
+
+⋅⋅*Kuinka tärkeää korjata/milloin pitää olla korjattu
+
 
 Critical path method (CPM) on tapa arvioda ja perustella projektin aikataulua. 
 Siinä listataan kaikki projektin työtehtävät, arvioidaan niiden kesto ja määritellään, mitkä ovat riippuvaisia mistäkin vaiheesta. 
