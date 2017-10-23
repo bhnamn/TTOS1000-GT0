@@ -10,7 +10,7 @@ Vagrant on avoimen lähdekoodin ohjelma, jolla voidaan luoda ja ylläpitää vir
 
 ## Katso myös
 
-[Virtuaalikone](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Vagrant-teknologia.md)
+[Virtuaalikone](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/virtuaalikone.md)
 
 ## Lähteitä liittyen aiheeseen
 
