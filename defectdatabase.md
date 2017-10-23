@@ -21,14 +21,11 @@ Defect database on tietokanta bugeille ja vioille. Tärkeimmät tiedot ovat:
 ![kuvassa bugi](https://upload.wikimedia.org/wikipedia/commons/9/97/Assassin_bug_aug08_02.jpg)
 
 
-Kriittisen polun metodin toimivuus riippuu täysin työtehtävien arvioitten tarkkuudesta. 
-Yhdenkin tehtävän venyminen voi vaikuttaa merkittävästi projektin kestoon.
 
 
 ## Lähteitä liittyen aiheeseen
 
-[What Is the Critical Path Method (CPM)?](https://www.smartsheet.com/critical-path-method)
-[Wikipedia: Critical Path Method](https://en.wikipedia.org/wiki/Critical_path_method)
+[Wikipedia: Bug tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system)
 
 ## Linkit wikin muihin sivuihin
 
