@@ -14,7 +14,7 @@ KATSELMOINTI 23.10.2017
 ### PUUTTUVAT SIVUT PAIKALLEEN - ASAP!
 
 Nyt on viimeinen mahdollisuus osallistua kokeeseen ilman ylimääräistä puuhaa! 
-Eli hoida oma käsitteesi versiohallintaan! Aikaa on keskiviikkoon klo 12:00 
+Eli hoida oma käsitteesi versiohallintaan! Aikaa on keskiviikkoon 25.10.2017 klo 12:00 
 Jos aikataulua ei noudata, niin lisään jokaisen myöhästelijän listalle yhden lisäkäsitteen. 
 Nämä ylimääräiset käsitteet tulevat myös mukaan kokeeseen! (eli kannattaa hoitaa oma tontti kuntoon)
 Käsitteet on listattu tämän sivun loppuun! [X1-X15](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/all_concepts.md#extra-nakit)
