@@ -30,5 +30,11 @@ Yhdenkin tehtävän venyminen voi vaikuttaa merkittävästi projektin kestoon.
 
 Kerää tähän sivut wikin sisältä, jotka mielestäsi liittyvät kuvaamaasi käsitteeseen/aiheeseen
 
-*[Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]()
-*[Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]() 
+*[Projektisuunnitelma, Project plan](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/projektisuunnitelma.md)
+
+*[läpivientiaika](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/L%C3%A4pivientiaika)
+
+*[Application lifecycle management](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/application-lifecycle-management.md) 
+
+ 
+
