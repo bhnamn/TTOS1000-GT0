@@ -61,7 +61,7 @@ KATSELMOINTI 23.10.2017
 | B9 | [UML - Unified Modeling Language](UML) | [Arvovirtakuvaus -Value Stream Map](arvovirtakuvaus) | - |
 | C1 | [Palvelumuotoilu - Service Design](Palvelumuotoilu) | [Agile Theme](Agile-Theme) |- |
 | C2 | [LEAN UX](Lean-Ux) | [Agile Epic](Agile-Epic) |- |
-| C3 | [Design Workshop (Suunnittelutyöpaja)](Design-Workshop) | [Lean Body of Knowledge](Lean-Body-of-Knowledge) | - | - |
+| C3 | [Design Workshop (Suunnittelutyöpaja)](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Design_Workshop.md) | [Lean Body of Knowledge](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/LeanBodyOfKnowledge.md) | - | - |
 | C4 | [Suunnitteluajattelu - Design Thinking](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/suunnitteluajattelu-designthinking.md) | [Project Management Body of Knowledge](https://github.com/JAMKPROJ/TTOS1000-GT0/edit/master/projectmanagementbodyofknowledge.md) | - |
 | C5 | [Koontipalvelin (Build Server)](koontipalvelin) | [Enterprise Architecture Body of Knowledge](enterprise-architecture-body-of-knowledge) | - |
 | C6 | [Jatkuvajulkaisu (Continuous delivery)](jatkuva-julkaisu) | [Kelpuuttaminen - Validation](kelpuuttaminen-validation) | - |
