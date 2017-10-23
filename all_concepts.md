@@ -93,6 +93,8 @@ KATSELMOINTI 23.10.2017
 
 EXTRA NAKIT!
 
+| Vast | Kasite  | Muuta? |
+|:-:|:-:|:-:|
 | X1 | [liidi]() | |
 | X2 | [] | | 
 | X3 | [] |  | 
