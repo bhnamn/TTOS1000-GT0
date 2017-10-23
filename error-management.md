@@ -20,5 +20,5 @@ Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
 
 ## Linkit wikin muihin sivuihin
 
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]()
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]() 
+* [Vikaraportti](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/vikaraportti-bug-report)
+* [Ohjelmisto testaaja](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/ohjelmistotestaaja.md) 
