@@ -8,7 +8,7 @@ Theme on joukko käyttäjä tarinoita, joilla on sama attribuutti. Yksittäiset 
 
 ## Esimerkkejä
 
-![Agile Theme] (http://www.agilemarketing.net/wp-content/uploads/2012/12/the-difference-between-themes-epics-user-stories-and-tasks1.jpg)
+![Agile Theme](http://www.agilemarketing.net/wp-content/uploads/2012/12/the-difference-between-themes-epics-user-stories-and-tasks1.jpg)
 ## Lähteitä liittyen aiheeseen
 ![Agile Theme](http://www.agilemarketing.net/epic-vs-theme-2/)
 
