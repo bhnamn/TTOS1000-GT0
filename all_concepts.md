@@ -26,8 +26,12 @@ KATSELMOINTI 23.10.2017
 * Eli varmista, että oma käsitteesi on linkitetty muihin sopiviin käsitteisiin?
 
 
+### Lisävastuuta tarjolla!
 
+Eli jollei aikataulu pidä Keskiviikko klo 12:00, niin lisään jokaisen myöhästelijän listalle yhden lisäkäsitteen. 
+Nämä ylimääräiset käsitteet tulevat myös mukaan kokeeseen! (eli kannattaa hoitaa oma tontti kuntoon)
 
+Käsitteet on listattu tämän sivun loppuun! X1-X15
 
 
 
