@@ -20,3 +20,8 @@ Videolinkissä on hyvä esimerkki suunnittelutyöpajan toiminnasta.
 
 ## Lähteet
 https://www.youtube.com/watch?v=Z4gAugRGpeY
+
+## Aiheeseen liittyvää
+
+[Suunnitteluajattelu](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/suunnitteluajattelu-designthinking.md)
+
