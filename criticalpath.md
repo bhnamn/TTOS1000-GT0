@@ -28,7 +28,7 @@ Yhdenkin tehtävän venyminen voi vaikuttaa merkittävästi projektin kestoon.
 
 ## Linkit wikin muihin sivuihin
 
-Kerää tähän sivut wikin sisältä, jotka mielestäsi liittyvät kuvaamaasi käsitteeseen/aiheeseen
+Wikin sisäiset asiaan oleellisesti liittyvät sivut
 
 *[Projektisuunnitelma, Project plan](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/projektisuunnitelma.md)
 
