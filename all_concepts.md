@@ -70,7 +70,7 @@ KATSELMOINTI 23.10.2017
 | C9 | [Parikoodaus](parikoodaus) | [Business Analysis Body of Knowledge](business-analysis-body-of-knowledge) | - |
 | D1 | [kaantaja (Compiler)](kaantaja(compiler)) | [Information Technology Infrastructure Library ITIL](itil) | - |
 | D2 | [Laadunvarmistus (Quality Assurance)](laadunvarmistus) | [Software testing body of knowledge](software-testing-body-of-knowledge) |- |
-| D3 | [Yksikkotestaus (Unit Testing)](Yksikkotestaus.md) | [Versiohallintahaara (Branch)](versiohallintahaara) | - |
+| D3 | [Yksikkotestaus (Unit Testing)](Yksikkotestaus.md) | [Versiohallintahaara (Branch)](versiohallintahaara.md) | - |
 | D4 | [Regressiotestaus (Regression Testing)](regressio-testaus) | [Jatkuvajulkaisu (Continuous Delivery)](jatkuvajulkaisu) | - |
 | D5 | [Julkaisusuunnittelu (Release Management)](julkaisusuunnittelu) | [Jatkuvasuunnittelu (Continuous Planning)](jatkuvasuunnittelu) | - |
 | D6 | [Kayttoonotto (Service Deployment)](regressio-testaus) | [Liiketoiminantavoite (Business Goal)](liiketoimintatavoite) |- |
